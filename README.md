@@ -1,4 +1,5 @@
 # How to use
+For use with test app on RNFB
 Replace contents of app.js with file of choice then comment out globals in index.js.
 Ensure project is setup:
 ```shell
